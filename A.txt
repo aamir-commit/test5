@@ -1,10 +1,16 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #### These are the others code which i have added and these code are pushed after the git stashed has been applied#######
 =======
+=======
+>>>>>>> Stashed changes
 Feature 1
 // some login code with OTP
 // 75%
 ########## This above lines will be stored in hidden git area + temp####
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Ranchi
 ooty
